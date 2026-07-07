@@ -1,0 +1,29 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "prod001",
+      "localizations": [
+        {
+          "description": "Fastest-time leaderboard, brand stats",
+          "displayName": "Puzzlebox Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "puzzlelog.pro",
+      "referenceName": "Puzzlebox Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
